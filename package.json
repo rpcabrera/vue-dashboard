@@ -38,5 +38,8 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "main": "index.js",
+  "author": "Rigoberto <rigo.pena.cabrera@gmail.com>",
+  "license": "MIT"
 }
